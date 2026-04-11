@@ -1,6 +1,7 @@
 ﻿
 namespace Sample_4
 {
+    // Реализовать абстрактный класс нельзя
     public abstract class Character
     {
         protected string _name;
