@@ -14,6 +14,9 @@
             get { 
                 return _currentHealth; 
             }
+            private set{
+                _currentHealth = value;
+            }
         }
 
         public Player(string name)
