@@ -49,7 +49,7 @@ namespace Sample_4
         }
 
         /// <summary>
-        /// Не переорпеделяется - общее повдение у всех наследников
+        /// Может быть переопределен у наследников
         /// </summary>
         /// <param name="exp"></param>
         public virtual void AddExperience(int exp)
