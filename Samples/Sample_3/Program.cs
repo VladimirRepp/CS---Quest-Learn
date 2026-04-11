@@ -7,7 +7,7 @@
             // C# - управляемый язык 
             // В с# есть два типа переменных: 
             // 1) Value type (struct, int, float и тд)
-            // 2) Reference type (class, string)
+            // 2) Reference type (class, array и тд)
             // Пример: 
             Player player = new Player("playr_0");
             int damage = 10;
