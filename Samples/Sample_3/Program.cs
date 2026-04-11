@@ -32,6 +32,7 @@
         private static void SampleDamageToPlayer(Player player, int damage)
         {
             player.TakeDamage(damage);
+            damage += 10;
         }
 
         private static void SampleChangeDamage(ref int damage)
