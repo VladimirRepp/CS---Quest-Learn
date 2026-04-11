@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // C# - управляемый язык 
             // В с# есть два типа переменных: 
             // 1) Value type (struct, int, float и тд)
             // 2) Reference type (class, string)
