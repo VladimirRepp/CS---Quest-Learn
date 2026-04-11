@@ -17,6 +17,9 @@ namespace Sample_4
             {
                 return _currentHealth;
             }
+            private set {
+                _currentHealth = value;
+            }
         }
 
         public string Name => _name;
