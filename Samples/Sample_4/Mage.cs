@@ -24,10 +24,12 @@
 
         public override void AddExperience(int exp)
         {
+            if(exp >= 100){
+                _maxMana += 15;
+                _currentMana = _maxMana;
+            }
+        
             base.AddExperience(exp);
-
-            _maxMana += 15;
-            _currentMana = _maxMana;
         }
 
         public override int Attack()
