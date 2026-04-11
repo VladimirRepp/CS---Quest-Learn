@@ -8,12 +8,12 @@
 
         public override void Heal(int valueHeal)
         {
-            if(_currentHealth < _currentHealth / 2)
+            if(_currentHealth < _maxHealth / 2)
             {
                 _currentHealth = _currentHealth + valueHeal * 2 <= _maxHealth ?
                     _currentHealth + valueHeal * 2 : _maxHealth;
             }
-            else if(_currentHealth < _currentHealth / 4)
+            else if(_currentHealth < _maxHealth / 4)
             {
                 _currentHealth = _currentHealth + valueHeal * 4 <= _maxHealth ?
                    _currentHealth + valueHeal * 4 : _maxHealth;
