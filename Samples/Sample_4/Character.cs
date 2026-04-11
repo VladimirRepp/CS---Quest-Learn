@@ -45,7 +45,7 @@ namespace Sample_4
         /// <returns></returns>
         public virtual int Attack()
         {
-            return _baseDamage * _level;
+            return _baseDamage;
         }
 
         /// <summary>
@@ -82,6 +82,7 @@ namespace Sample_4
 
             _maxHealth += 20;
             _currentHealth = _maxHealth;
+            _baseDamage += 10;
         }
     }
 
