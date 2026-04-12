@@ -1,6 +1,6 @@
 ﻿namespace Sample
 {
-    public class Monster
+    public abstract class Monster
     {
         protected string _name;
         protected Vector2 _position;
