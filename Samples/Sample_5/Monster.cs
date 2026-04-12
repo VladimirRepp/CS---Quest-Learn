@@ -39,10 +39,11 @@
         //    _position.Y = point.Y;
         //}
 
-        public virtual int Attack()
-        {
-            return _baseDamage;
-        }
+        public virtual int Attack() => _baseDamage;
+        // ~
+        // {
+        //     return _baseDamage;
+        // }
 
         public virtual void TakeDamage(int damage)
         {
