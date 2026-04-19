@@ -1,0 +1,16 @@
+C:\Users\prep\source\repos\WinFormsTODO\bin\Debug\net9.0-windows\WinFormsTODO.exe
+C:\Users\prep\source\repos\WinFormsTODO\bin\Debug\net9.0-windows\WinFormsTODO.deps.json
+C:\Users\prep\source\repos\WinFormsTODO\bin\Debug\net9.0-windows\WinFormsTODO.runtimeconfig.json
+C:\Users\prep\source\repos\WinFormsTODO\bin\Debug\net9.0-windows\WinFormsTODO.dll
+C:\Users\prep\source\repos\WinFormsTODO\bin\Debug\net9.0-windows\WinFormsTODO.pdb
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.Form1.resources
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.csproj.GenerateResource.cache
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.AssemblyInfoInputs.cache
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.AssemblyInfo.cs
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.csproj.CoreCompileInputs.cache
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.dll
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\refint\WinFormsTODO.dll
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.pdb
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\WinFormsTODO.genruntimeconfig.cache
+C:\Users\prep\source\repos\WinFormsTODO\obj\Debug\net9.0-windows\ref\WinFormsTODO.dll

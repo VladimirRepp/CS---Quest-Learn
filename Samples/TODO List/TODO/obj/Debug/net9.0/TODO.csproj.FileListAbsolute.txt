@@ -1,0 +1,14 @@
+C:\Users\prep\source\repos\TODO\bin\Debug\net9.0\TODO.exe
+C:\Users\prep\source\repos\TODO\bin\Debug\net9.0\TODO.deps.json
+C:\Users\prep\source\repos\TODO\bin\Debug\net9.0\TODO.runtimeconfig.json
+C:\Users\prep\source\repos\TODO\bin\Debug\net9.0\TODO.dll
+C:\Users\prep\source\repos\TODO\bin\Debug\net9.0\TODO.pdb
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\TODO.AssemblyInfoInputs.cache
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\TODO.AssemblyInfo.cs
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\TODO.csproj.CoreCompileInputs.cache
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\TODO.dll
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\refint\TODO.dll
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\TODO.pdb
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\TODO.genruntimeconfig.cache
+C:\Users\prep\source\repos\TODO\obj\Debug\net9.0\ref\TODO.dll
