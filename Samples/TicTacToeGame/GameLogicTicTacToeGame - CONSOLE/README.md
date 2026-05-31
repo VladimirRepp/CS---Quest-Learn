@@ -2,8 +2,6 @@
 
 > **Учебный проект**, демонстрирующий важность разделения слоёв бизнес-логики и пользовательского интерфейса.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## 📖 О проекте
@@ -79,12 +77,6 @@ dotnet run
 ## 🔗 Ссылки
 
 - **Репозиторий:** [CS---Quest-Learn / GameLogicTicTacToeGame - CONSOLE](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/GameLogicTicTacToeGame%20-%20CONSOLE)
-
----
-
-## 📝 Лицензия
-
-Проект распространяется под лицензией MIT. Подробнее в файле [LICENSE](LICENSE).
 
 ---
 
