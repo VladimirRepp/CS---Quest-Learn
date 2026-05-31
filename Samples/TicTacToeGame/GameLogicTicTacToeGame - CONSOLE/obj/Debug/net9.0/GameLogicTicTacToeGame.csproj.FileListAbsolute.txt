@@ -1,0 +1,14 @@
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\bin\Debug\net9.0\GameLogicTicTacToeGame.exe
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\bin\Debug\net9.0\GameLogicTicTacToeGame.deps.json
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\bin\Debug\net9.0\GameLogicTicTacToeGame.runtimeconfig.json
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\bin\Debug\net9.0\GameLogicTicTacToeGame.dll
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\bin\Debug\net9.0\GameLogicTicTacToeGame.pdb
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\GameLogicTicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\GameLogicTicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\GameLogicTicTacToeGame.AssemblyInfo.cs
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\GameLogicTicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\GameLogicTicTacToeGame.dll
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\refint\GameLogicTicTacToeGame.dll
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\GameLogicTicTacToeGame.pdb
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\GameLogicTicTacToeGame.genruntimeconfig.cache
+C:\Users\prep\source\repos\GameLogicTicTacToeGame\obj\Debug\net9.0\ref\GameLogicTicTacToeGame.dll
