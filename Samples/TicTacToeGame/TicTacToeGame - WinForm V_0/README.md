@@ -6,7 +6,7 @@
 
 ## 📖 О проекте
 
-Данный проект — логическое продолжение [консольной версии](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/GameLogicTicTacToeGame%20-%20CONSOLE) игры «Крестики-Нолики».  
+Данный проект — логическое продолжение [консольной версии](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/TicTacToeGame/GameLogicTicTacToeGame%20-%20CONSOLE) игры «Крестики-Нолики».  
 Цель этой итерации — **перенести уже написанную игровую логику на визуальный интерфейс Windows Forms**.
 
 Проект создан в обучающих целях и демонстрирует эволюцию разработки: от консоли к графическому интерфейсу.
