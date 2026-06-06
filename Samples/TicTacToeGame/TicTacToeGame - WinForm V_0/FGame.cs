@@ -44,7 +44,7 @@ namespace TicTacToeGame
         {
             if (state != EWinnerState.Draw)
             {
-                if (MessageBox.Show($"Победа за: {mark}\nНачать сначала?", "Игра закончена!",
+                if (MessageBox.Show($"РџРѕР±РµРґР° Р·Р°: {mark}\nРќР°С‡Р°С‚СЊ СЃРЅР°С‡Р°Р»Р°?", "РРіСЂР° Р·Р°РєРѕРЅС‡РµРЅР°!",
                    MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
                     FGame form = new();
@@ -55,7 +55,7 @@ namespace TicTacToeGame
 
             else
             {
-                if (MessageBox.Show($"Ничья!\nНачать сначала?", "Игра закончена!",
+                if (MessageBox.Show($"РќРёС‡СЊСЏ!\nРќР°С‡Р°С‚СЊ СЃРЅР°С‡Р°Р»Р°?", "РРіСЂР° Р·Р°РєРѕРЅС‡РµРЅР°!",
                    MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
                     FGame form = new();
@@ -65,9 +65,9 @@ namespace TicTacToeGame
             }
         }
 
-        private void начатьСначалаToolStripMenuItem_Click(object sender, EventArgs e)
+        private void РЅР°С‡Р°С‚СЊРЎРЅР°С‡Р°Р»Р°ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show($"Начать новую игру?", "Внимание!",
+            if (MessageBox.Show($"РќР°С‡Р°С‚СЊ РЅРѕРІСѓСЋ РёРіСЂСѓ?", "Р’РЅРёРјР°РЅРёРµ!",
                    MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 FGame form = new();
@@ -87,7 +87,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -102,7 +102,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -117,7 +117,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -132,7 +132,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -147,7 +147,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -162,7 +162,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -177,7 +177,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -192,7 +192,7 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
@@ -207,13 +207,13 @@ namespace TicTacToeGame
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Внимание!");
+                MessageBox.Show(ex.Message, "Р’РЅРёРјР°РЅРёРµ!");
             }
         }
 
         private void UpdateView()
         {
-            toolStripLabel_Log.Text = "Ход: " + _gameLogic.GetCurrentPlayer();
+            toolStripLabel_Log.Text = "РҐРѕРґ: " + _gameLogic.GetCurrentPlayer();
 
             for(int i = 0; i < _map.GetCountRows; i++)
             {
