@@ -2,8 +2,6 @@
 
 > **Учебный проект.** Вторая итерация разработки игры «Крестики-Нолики» — перенос логики на Windows Forms.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## 📖 О проекте
