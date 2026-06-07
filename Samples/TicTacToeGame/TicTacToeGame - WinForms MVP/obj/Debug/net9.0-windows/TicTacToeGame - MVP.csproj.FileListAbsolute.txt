@@ -1,0 +1,17 @@
+C:\Users\prep\Desktop\TicTacToeGame - MVP\bin\Debug\net9.0-windows\TicTacToeGame - MVP.exe
+C:\Users\prep\Desktop\TicTacToeGame - MVP\bin\Debug\net9.0-windows\TicTacToeGame - MVP.deps.json
+C:\Users\prep\Desktop\TicTacToeGame - MVP\bin\Debug\net9.0-windows\TicTacToeGame - MVP.runtimeconfig.json
+C:\Users\prep\Desktop\TicTacToeGame - MVP\bin\Debug\net9.0-windows\TicTacToeGame - MVP.dll
+C:\Users\prep\Desktop\TicTacToeGame - MVP\bin\Debug\net9.0-windows\TicTacToeGame - MVP.pdb
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame___MVP.FStartGame.resources
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.csproj.GenerateResource.cache
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.AssemblyInfoInputs.cache
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.AssemblyInfo.cs
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.csproj.CoreCompileInputs.cache
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.dll
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\refint\TicTacToeGame - MVP.dll
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.pdb
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame - MVP.genruntimeconfig.cache
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\ref\TicTacToeGame - MVP.dll
+C:\Users\prep\Desktop\TicTacToeGame - MVP\obj\Debug\net9.0-windows\TicTacToeGame___MVP.Views.FGame.resources
