@@ -9,7 +9,7 @@
 ## 📖 О проекте
 
 Данный проект — **третья, зрелая итерация** разработки игры «Крестики-Нолики».  
-После переноса логики из [консольного приложения](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/GameLogicTicTacToeGame%20-%20CONSOLE) в WinForms, на этом этапе внедрён архитектурный паттерн **MVP (Model-View-Presenter)**.
+После переноса логики из [консольного приложения](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/TicTacToeGame/GameLogicTicTacToeGame%20-%20CONSOLE) в WinForms, на этом этапе внедрён архитектурный паттерн **MVP (Model-View-Presenter)**.
 
 Проект создан в обучающих целях и наглядно демонстрирует, как правильная архитектура упрощает поддержку, тестирование и развитие приложения.
 
@@ -68,23 +68,11 @@ cd CS---Quest-Learn/Samples/TicTacToeGame/TicTacToeGame\ -\ WinForms\ MVP
 
 ---
 
-## 📁 Структура репозитория
-
-```
-Samples/
-├── GameLogicTicTacToeGame - CONSOLE/    # Итерация 1: ядро игры
-└── TicTacToeGame/
-    ├── TicTacToeGame - WinForm V_0/     # Итерация 2: WinForms без архитектуры
-    └── TicTacToeGame - WinForms MVP/    # Итерация 3: WinForms с MVP (текущий)
-```
-
----
-
 ## 🔗 Ссылки
 
 - **Репозиторий:** [CS---Quest-Learn / TicTacToeGame - WinForms MVP](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/TicTacToeGame/TicTacToeGame%20-%20WinForms%20MVP)
 - **Предыдущая итерация:** [WinForm V_0 (без архитектуры)](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/TicTacToeGame/TicTacToeGame%20-%20WinForm%20V_0)
-- **Ядро логики:** [Консольная версия](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/GameLogicTicTacToeGame%20-%20CONSOLE)
+- **Ядро логики:** [Консольная версия](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/TicTacToeGame/GameLogicTicTacToeGame%20-%20CONSOLE)
 
 ---
 
