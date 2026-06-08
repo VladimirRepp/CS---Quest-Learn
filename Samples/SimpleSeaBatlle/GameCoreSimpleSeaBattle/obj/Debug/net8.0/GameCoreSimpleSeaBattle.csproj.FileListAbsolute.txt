@@ -1,0 +1,14 @@
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\GameCoreSimpleSeaBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\GameCoreSimpleSeaBattle.AssemblyInfoInputs.cache
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\GameCoreSimpleSeaBattle.AssemblyInfo.cs
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\GameCoreSimpleSeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\bin\Debug\net8.0\GameCoreSimpleSeaBattle.exe
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\bin\Debug\net8.0\GameCoreSimpleSeaBattle.deps.json
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\bin\Debug\net8.0\GameCoreSimpleSeaBattle.runtimeconfig.json
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\bin\Debug\net8.0\GameCoreSimpleSeaBattle.dll
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\bin\Debug\net8.0\GameCoreSimpleSeaBattle.pdb
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\GameCoreSimpleSeaBattle.dll
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\refint\GameCoreSimpleSeaBattle.dll
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\GameCoreSimpleSeaBattle.pdb
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\GameCoreSimpleSeaBattle.genruntimeconfig.cache
+C:\Users\prep\Documents\фомин\cpp_projects\GameCoreSimpleSeaBattle\obj\Debug\net8.0\ref\GameCoreSimpleSeaBattle.dll
