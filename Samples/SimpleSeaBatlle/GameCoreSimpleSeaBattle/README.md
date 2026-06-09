@@ -91,26 +91,9 @@ dotnet run
 
 ---
 
-## 📁 Структура репозитория
-
-```
-Samples/
-├── GameLogicTicTacToeGame - CONSOLE/       # Другой пример: Крестики-Нолики
-└── SimpleSeaBatlle/
-    └── GameCoreSimpleSeaBattle/            # Ядро «Морского боя» (текущий проект)
-```
-
----
-
 ## 🔗 Ссылки
 
 - **Репозиторий:** [CS---Quest-Learn / Simple Sea Battle](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/SimpleSeaBatlle/GameCoreSimpleSeaBattle)
-
----
-
-## 📝 Лицензия
-
-Проект распространяется под лицензией MIT. Подробнее в файле [LICENSE](LICENSE).
 
 ---
 
