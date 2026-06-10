@@ -1,0 +1,16 @@
+C:\Users\prep\source\repos\SimpleSeaBattle\bin\Debug\net9.0-windows\SimpleSeaBattle.exe
+C:\Users\prep\source\repos\SimpleSeaBattle\bin\Debug\net9.0-windows\SimpleSeaBattle.deps.json
+C:\Users\prep\source\repos\SimpleSeaBattle\bin\Debug\net9.0-windows\SimpleSeaBattle.runtimeconfig.json
+C:\Users\prep\source\repos\SimpleSeaBattle\bin\Debug\net9.0-windows\SimpleSeaBattle.dll
+C:\Users\prep\source\repos\SimpleSeaBattle\bin\Debug\net9.0-windows\SimpleSeaBattle.pdb
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.FGame.resources
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.csproj.GenerateResource.cache
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.AssemblyInfoInputs.cache
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.AssemblyInfo.cs
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.dll
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\refint\SimpleSeaBattle.dll
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.pdb
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\SimpleSeaBattle.genruntimeconfig.cache
+C:\Users\prep\source\repos\SimpleSeaBattle\obj\Debug\net9.0-windows\ref\SimpleSeaBattle.dll
