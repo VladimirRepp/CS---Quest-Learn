@@ -86,18 +86,6 @@ cd CS---Quest-Learn/Samples/SimpleSeaBatlle/SimpleSeaBattle\ -\ WinForm\ MVP
 
 ---
 
-## 📁 Структура репозитория
-
-```
-Samples/
-└── SimpleSeaBatlle/
-    ├── GameCoreSimpleSeaBattle/              # Итерация 1: ядро игры (консоль)
-    ├── SimpleSeaBattle - WinForm V0/         # Итерация 2: WinForms без архитектуры
-    └── SimpleSeaBattle - WinForm MVP/        # Итерация 3: WinForms с MVP (текущий)
-```
-
----
-
 ## 🔗 Ссылки
 
 - **Репозиторий:** [CS---Quest-Learn / SimpleSeaBattle - WinForm MVP](https://github.com/VladimirRepp/CS---Quest-Learn/tree/main/Samples/SimpleSeaBatlle/SimpleSeaBattle%20-%20WinForm%20MVP)
